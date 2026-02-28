@@ -2,4 +2,4 @@ flask
 google-generativeai
 gunicorn
 Pillow
-groq
+grogc
