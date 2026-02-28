@@ -2,4 +2,4 @@ flask
 google-generativeai
 gunicorn
 Pillow
-grogc
+grogchttps://github.com/MaickFeliz/HappyBot.git
